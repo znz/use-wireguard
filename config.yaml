@@ -3,14 +3,14 @@ id: use-wireguard
 base_name: use-wireguard
 tags:
 - linux
-presentation_date: 2019/08/10
-version: 2019.08.10
+presentation_date: 2020/04/18
+version: 2020.04.18
 licenses: []
-slideshare_id: 
-speaker_deck_id: 
-ustream_id: 
-vimeo_id: 
-youtube_id: 
+slideshare_id:
+speaker_deck_id:
+ustream_id:
+vimeo_id:
+youtube_id:
 author:
   markup_language: :markdown
   name: Kazuhiro NISHIYAMA

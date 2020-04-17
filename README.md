@@ -1,6 +1,8 @@
-# WireGuardを使ってみた
+# Wireguard 実践入門
 
-TODO: SLIDE DESCRIPTION
+[オンライン開催：東京エリア・関西合同Debian勉強会 (2020/4/18(土))](https://debianjp.connpass.com/event/172494/)での発表資料です。
+
+wireguard を半年ぐらい使ってみり、いくつかのネットワーク形態を試してみた知見を共有します。
 
 ## For author
 
