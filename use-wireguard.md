@@ -91,10 +91,9 @@ AllowedIPs = 10.10.10.230/32
 
 # 設定説明
 
-次のページからのタイトル
-
-wg(8) Interface =
-wg(8) コマンドで使われる Interface セクションの設定
+- 次のページからのタイトルの wg(8) Interface = wg(8) コマンドで使われる Interface セクションの設定
+- wg(8) と wg-quick(8) の区別は設定する時にはあまり気にしない
+- man を調べる時に影響する程度
 
 # wg(8) Interface
 
@@ -127,6 +126,8 @@ wg(8) コマンドで使われる Interface セクションの設定
 # wg-quick(8)
 
 - wg コマンドと ip コマンドのラッパー
+- 次ページの設定項目は ip コマンドなどの
+  wg コマンド以外での設定で使われる
 
 # wg-quick(8) Interface
 
@@ -141,7 +142,7 @@ wg(8) コマンドで使われる Interface セクションの設定
 # privatekey 自動読み込み
 
 - `PostUp` で `wg set %i private-key`
-- `SaveConfig = true` があると `PrivateKey = ` が書き込まれてしまうので注意
+- `SaveConfig = true` があると `PrivateKey =` が書き込まれてしまうので注意
 
 ```
 [Interface]
