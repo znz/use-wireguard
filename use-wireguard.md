@@ -15,6 +15,12 @@ allotted-time
 theme
 :   lightning-simple
 
+# 自己紹介
+
+- 西山 和広
+- Ruby のコミッター
+- twitter, github など: @znz
+
 # WireGuard とは?
 
 - WireGuard: fast, modern, secure VPN tunnel
