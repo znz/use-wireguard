@@ -2,12 +2,13 @@
 id: use-wireguard
 base_name: use-wireguard
 tags:
+- wireguard
 - linux
 presentation_date: 2020/04/18
 version: 2020.04.18
 licenses: []
-slideshare_id:
-speaker_deck_id:
+slideshare_id: wireguard
+speaker_deck_id: wireguard-shi-jian-ru-men
 ustream_id:
 vimeo_id:
 youtube_id:
